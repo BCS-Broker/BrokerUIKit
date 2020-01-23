@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'BrokerUIKit'
-  s.version          = '2.0.3'
+  s.version          = '2.0.4'
   s.summary          = 'BrokerSDK.BrokerUIKit'
   s.homepage         = 'https://github.com/BCS-Broker/BrokerUIKit'
   s.author           = 'BCS'

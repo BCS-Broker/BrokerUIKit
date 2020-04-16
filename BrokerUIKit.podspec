@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'BrokerUIKit'
-  s.version          = '2.0.10'
+  s.version          = '2.1.0'
   s.summary          = 'BrokerSDK.BrokerUIKit'
   s.homepage         = 'https://github.com/BCS-Broker/BrokerUIKit'
   s.author           = 'BCS'
@@ -18,6 +18,6 @@ Pod::Spec.new do |s|
   s.dependency 'SkeletonView', '~> 1.8.2'
   s.dependency 'SwiftRichString', '~> 3.0.3'
   s.dependency 'SwiftSoup', '~> 2.2.2'
-  s.dependency 'ModuleCore', '~> 2.0.1'
-  s.dependency 'BrokerData', '~> 2.0.11'
+  s.dependency 'ModuleCore', '~> 2.1.0'
+  s.dependency 'BrokerData', '~> 2.1.0'
 end
